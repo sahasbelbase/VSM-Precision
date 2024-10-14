@@ -1,0 +1,666 @@
+Results for query: 'What are the latest developments in the Russia-Ukraine conflict?'
+Precision@5: 0.0000
+
+Results for query: 'How are sanctions affecting Russia's economy in 2024?'
+Precision@5: 0.0000
+
+Results for query: 'What is the international response to the war in Ukraine?'
+Precision@5: 0.0000
+
+Results for query: 'How are civilians being impacted by the ongoing war?'
+Precision@5: 0.0000
+
+Results for query: 'What role is NATO playing in the Russia-Ukraine war?'
+Precision@5: 0.0000
+
+Results for query: 'What are the implications of the conflict for global security?'
+Precision@5: 0.0000
+
+Results for query: 'How has the conflict influenced energy prices worldwide?'
+Precision@5: 0.0000
+
+Results for query: 'What humanitarian efforts are underway in Ukraine?'
+Precision@5: 0.0000
+
+Results for query: 'What are the main military strategies being employed by both sides?'
+Precision@5: 0.0000
+
+Results for query: 'What are the cultural impacts of the Russia-Ukraine war?'
+Precision@5: 0.0000
+
+Results for query: 'How has the economic relationship between Russia and Ukraine changed since 2022?'
+Precision@5: 0.0000
+
+Results for query: 'What are the historical roots of the conflict?'
+Precision@5: 0.0000
+
+Results for query: 'What role does NATO play in the Russia-Ukraine war?'
+Precision@5: 0.0000
+
+Results for query: 'How has the war affected Ukraine's agricultural sector?'
+Precision@5: 0.0000
+
+Results for query: 'What natural resources are significant in the context of the conflict?'
+Precision@5: 0.0000
+
+Results for query: 'How has the conflict influenced Russian culture and identity?'
+Precision@5: 0.0000
+
+Results for query: 'What are the implications of the war for global geopolitics?'
+Precision@5: 0.0000
+
+Results for query: 'What humanitarian challenges have arisen due to the conflict?'
+Precision@5: 0.0000
+
+Results for query: 'Latest developments in the Russia-Ukraine conflict?'
+Precision@5: 0.0000
+
+Results for query: 'Impact of sanctions on Russia's economy in 2024?'
+Precision@5: 0.0000
+
+Results for query: 'International response to the war in Ukraine?'
+Precision@5: 0.0000
+
+Results for query: 'Effects of the ongoing war on civilians?'
+Precision@5: 0.0000
+
+Results for query: 'NATO's role in the Russia-Ukraine war?'
+Precision@5: 0.0000
+
+Results for query: 'Implications of the conflict for global security?'
+Precision@5: 0.0000
+
+Results for query: 'Influence of the conflict on energy prices?'
+Precision@5: 0.0000
+
+Results for query: 'Humanitarian efforts in Ukraine?'
+Precision@5: 0.0000
+
+Results for query: 'Main military strategies in the conflict?'
+Precision@5: 0.0000
+
+Results for query: 'Cultural impacts of the Russia-Ukraine war?'
+Precision@5: 0.0000
+
+Results for query: 'Economic changes between Russia and Ukraine since 2022?'
+Precision@5: 0.0000
+
+Results for query: 'Historical roots of the conflict?'
+Precision@5: 0.0000
+
+Results for query: 'NATO's influence on the Russia-Ukraine conflict?'
+Precision@5: 0.0000
+
+Results for query: 'Impact of the war on Ukraine's agriculture?'
+Precision@5: 0.0000
+
+Results for query: 'Key natural resources in the conflict?'
+Precision@5: 0.0000
+
+Results for query: 'Influence of the conflict on Russian culture?'
+Precision@5: 0.0000
+
+Results for query: 'Geopolitical implications of the war?'
+Precision@5: 0.0000
+
+Results for query: 'Humanitarian challenges from the conflict?'
+Precision@5: 0.0000
+
+Results for query: 'Latest developments?'
+Precision@5: 0.0000
+
+Results for query: 'Sanctions impact 2024?'
+Precision@5: 0.0000
+
+Results for query: 'International response?'
+Precision@5: 0.0000
+
+Results for query: 'Civilians affected?'
+Precision@5: 0.0000
+
+Results for query: 'NATO's role?'
+Precision@5: 0.0000
+
+Results for query: 'Global security implications?'
+Precision@5: 0.0000
+
+Results for query: 'Energy price influence?'
+Precision@5: 0.0000
+
+Results for query: 'Humanitarian efforts?'
+Precision@5: 0.0000
+
+Results for query: 'Military strategies?'
+Precision@5: 0.0000
+
+Results for query: 'Cultural impacts?'
+Precision@5: 0.0000
+
+Results for query: 'Economic changes?'
+Precision@5: 0.0000
+
+Results for query: 'Historical roots?'
+Precision@5: 0.0000
+
+Results for query: 'NATO influence?'
+Precision@5: 0.0000
+
+Results for query: 'Agricultural impact?'
+Precision@5: 0.0000
+
+Results for query: 'Natural resources?'
+Precision@5: 0.0000
+
+Results for query: 'Russian culture?'
+Precision@5: 0.0000
+
+Results for query: 'Geopolitical implications?'
+Precision@5: 0.0000
+
+Results for query: 'Humanitarian challenges?'
+Precision@5: 0.0000
+
+Results for query: 'Latest developments?'
+Precision@5: 0.0000
+
+Results for query: 'Sanctions impact 2024?'
+Precision@5: 0.0000
+
+Results for query: 'International response?'
+Precision@5: 0.0000
+
+Results for query: 'Civilians affected?'
+Precision@5: 0.0000
+
+Results for query: 'NATO's role?'
+Precision@5: 0.0000
+
+Results for query: 'Global security implications?'
+Precision@5: 0.0000
+
+Results for query: 'Energy price influence?'
+Precision@5: 0.0000
+
+Results for query: 'Humanitarian efforts?'
+Precision@5: 0.0000
+
+Results for query: 'Military strategies?'
+Precision@5: 0.0000
+
+Results for query: 'Cultural impacts?'
+Precision@5: 0.0000
+
+Results for query: 'Economic changes?'
+Precision@5: 0.0000
+
+Results for query: 'Historical roots?'
+Precision@5: 0.0000
+
+Results for query: 'NATO influence?'
+Precision@5: 0.0000
+
+Results for query: 'Agricultural impact?'
+Precision@5: 0.0000
+
+Results for query: 'Natural resources?'
+Precision@5: 0.0000
+
+Results for query: 'Russian culture?'
+Precision@5: 0.0000
+
+Results for query: 'Geopolitical implications?'
+Precision@5: 0.0000
+
+Results for query: 'Humanitarian challenges?'
+Precision@5: 0.0000
+
+Results for query: 'Latest developments?'
+Precision@5: 0.0000
+
+Results for query: 'Sanctions impact 2024?'
+Precision@5: 0.0000
+
+Results for query: 'International response?'
+Precision@5: 0.0000
+
+Results for query: 'Civilians affected?'
+Precision@5: 0.0000
+
+Results for query: 'NATO's role?'
+Precision@5: 0.0000
+
+Results for query: 'Global security implications?'
+Precision@5: 0.0000
+
+Results for query: 'Energy price influence?'
+Precision@5: 0.0000
+
+Results for query: 'Humanitarian efforts?'
+Precision@5: 0.0000
+
+Results for query: 'Military strategies?'
+Precision@5: 0.0000
+
+Results for query: 'Cultural impacts?'
+Precision@5: 0.0000
+
+Results for query: 'Economic changes?'
+Precision@5: 0.0000
+
+Results for query: 'Historical roots?'
+Precision@5: 0.0000
+
+Results for query: 'NATO influence?'
+Precision@5: 0.0000
+
+Results for query: 'Agricultural impact?'
+Precision@5: 0.0000
+
+Results for query: 'Natural resources?'
+Precision@5: 0.0000
+
+Results for query: 'Russian culture?'
+Precision@5: 0.0000
+
+Results for query: 'Geopolitical implications?'
+Precision@5: 0.0000
+
+Results for query: 'Humanitarian challenges?'
+Precision@5: 0.0000
+
+Results for query: 'Latest developments?'
+Precision@5: 0.0000
+
+Results for query: 'Sanctions impact 2024?'
+Precision@5: 0.0000
+
+Results for query: 'International response?'
+Precision@5: 0.0000
+
+Results for query: 'Civilians affected?'
+Precision@5: 0.0000
+
+Results for query: 'NATO's role?'
+Precision@5: 0.0000
+
+Results for query: 'Global security implications?'
+Precision@5: 0.0000
+
+Results for query: 'Energy price influence?'
+Precision@5: 0.0000
+
+Results for query: 'Humanitarian efforts?'
+Precision@5: 0.0000
+
+Results for query: 'Military strategies?'
+Precision@5: 0.0000
+
+Results for query: 'Cultural impacts?'
+Precision@5: 0.0000
+
+Results for query: 'Economic changes?'
+Precision@5: 0.0000
+
+Results for query: 'Historical roots?'
+Precision@5: 0.0000
+
+Results for query: 'NATO influence?'
+Precision@5: 0.0000
+
+Results for query: 'Agricultural impact?'
+Precision@5: 0.0000
+
+Results for query: 'Natural resources?'
+Precision@5: 0.0000
+
+Results for query: 'Russian culture?'
+Precision@5: 0.0000
+
+Results for query: 'Geopolitical implications?'
+Precision@5: 0.0000
+
+Results for query: 'Humanitarian challenges?'
+Precision@5: 0.0000
+
+Results for query: 'Latest developments?'
+Precision@5: 0.0000
+
+Results for query: 'Sanctions impact 2024?'
+Precision@5: 0.0000
+
+Results for query: 'International response?'
+Precision@5: 0.0000
+
+Results for query: 'Civilians affected?'
+Precision@5: 0.0000
+
+Results for query: 'NATO's role?'
+Precision@5: 0.0000
+
+Results for query: 'Global security implications?'
+Precision@5: 0.0000
+
+Results for query: 'Energy price influence?'
+Precision@5: 0.0000
+
+Results for query: 'Humanitarian efforts?'
+Precision@5: 0.0000
+
+Results for query: 'Military strategies?'
+Precision@5: 0.0000
+
+Results for query: 'Cultural impacts?'
+Precision@5: 0.0000
+
+Results for query: 'Economic changes?'
+Precision@5: 0.0000
+
+Results for query: 'Historical roots?'
+Precision@5: 0.0000
+
+Results for query: 'NATO influence?'
+Precision@5: 0.0000
+
+Results for query: 'Agricultural impact?'
+Precision@5: 0.0000
+
+Results for query: 'Natural resources?'
+Precision@5: 0.0000
+
+Results for query: 'Russian culture?'
+Precision@5: 0.0000
+
+Results for query: 'Geopolitical implications?'
+Precision@5: 0.0000
+
+Results for query: 'Humanitarian challenges?'
+Precision@5: 0.0000
+
+Results for query: 'Latest developments?'
+Precision@5: 1.0000
+Document: Putin.txt, Similarity: 0.0358
+Document: Ukraine's EU Membership Aspirations.txt, Similarity: 0.0288
+Document: evaluation_results.txt, Similarity: 0.0248
+Document: The Role of Natural Resources in Russia's Economy.txt, Similarity: 0.0202
+Document: The Impact of the Conflict on Ukrainian Society.txt, Similarity: 0.0105
+
+Results for query: 'Sanctions impact 2024?'
+Precision@5: 1.0000
+Document: evaluation_results.txt, Similarity: 0.0485
+Document: Recent Conflicts and Regional Stability.txt, Similarity: 0.0478
+Document: Economic Relations Between Russia and Ukraine.txt, Similarity: 0.0467
+Document: The Impact of the Conflict on Ukrainian Society.txt, Similarity: 0.0324
+Document: GlobalView.txt, Similarity: 0.0265
+
+Results for query: 'International response?'
+Precision@5: 1.0000
+Document: Ukraine's Pursuit of European Integration.txt, Similarity: 0.0633
+Document: HelloRussia.txt, Similarity: 0.0227
+Document: evaluation_results.txt, Similarity: 0.0221
+Document: The Impact of the Conflict on Ukrainian Society.txt, Similarity: 0.0153
+Document: The Role of Natural Resources in Russia's Economy.txt, Similarity: 0.0147
+
+Results for query: 'Civilians affected?'
+Precision@5: 1.0000
+Document: The Cold War's Impact on Russia-Ukraine Relations.txt, Similarity: 0.0698
+Document: Recent Conflicts and Regional Stability.txt, Similarity: 0.0639
+Document: The Impact of the Conflict on Ukrainian Society.txt, Similarity: 0.0432
+Document: HelloRussia.txt, Similarity: 0.0357
+Document: evaluation_results.txt, Similarity: 0.0262
+
+Results for query: 'NATO's role?'
+Precision@5: 1.0000
+Document: NATO's Influence on Ukraine's Defense Strategy.txt, Similarity: 0.1807
+Document: Recent Conflicts and Regional Stability.txt, Similarity: 0.0664
+Document: HelloRussia.txt, Similarity: 0.0492
+Document: The Cultural Dynamics of Ukraine.txt, Similarity: 0.0415
+Document: Natural Resources in Russia's Economy.txt, Similarity: 0.0349
+
+Results for query: 'Global security implications?'
+Precision@5: 1.0000
+Document: GlobalView.txt, Similarity: 0.1112
+Document: The Role of Natural Resources in Russia's Economy.txt, Similarity: 0.0862
+Document: Ukraine's Agricultural Sector.txt, Similarity: 0.0717
+Document: Recent Conflicts and Regional Stability.txt, Similarity: 0.0715
+Document: NATO's Influence on Ukraine's Defense Strategy.txt, Similarity: 0.0452
+
+Results for query: 'Energy price influence?'
+Precision@5: 1.0000
+Document: The Role of Natural Resources in Russia's Economy.txt, Similarity: 0.2548
+Document: Economic Relations Between Russia and Ukraine.txt, Similarity: 0.1199
+Document: Natural Resources in Russia's Economy.txt, Similarity: 0.1090
+Document: GlobalView.txt, Similarity: 0.0438
+Document: NATO's Influence on Ukraine's Defense Strategy.txt, Similarity: 0.0286
+
+Results for query: 'Humanitarian efforts?'
+Precision@5: 1.0000
+Document: Recent Conflicts and Regional Stability.txt, Similarity: 0.1390
+Document: The Impact of the Conflict on Ukrainian Society.txt, Similarity: 0.1069
+Document: Cultural Heritage of Ukraine.txt, Similarity: 0.0390
+Document: HelloRussia.txt, Similarity: 0.0386
+Document: evaluation_results.txt, Similarity: 0.0325
+
+Results for query: 'Military strategies?'
+Precision@5: 1.0000
+Document: NATO's Influence on Ukraine's Defense Strategy.txt, Similarity: 0.1206
+Document: HelloRussia.txt, Similarity: 0.1088
+Document: Recent Conflicts and Regional Stability.txt, Similarity: 0.0694
+Document: Putin.txt, Similarity: 0.0597
+Document: The Cold War's Impact on Russia-Ukraine Relations.txt, Similarity: 0.0346
+
+Results for query: 'Cultural impacts?'
+Precision@5: 1.0000
+Document: The Cultural Dynamics of Ukraine.txt, Similarity: 0.1177
+Document: The Impact of the Conflict on Ukrainian Society.txt, Similarity: 0.1037
+Document: Recent Conflicts and Regional Stability.txt, Similarity: 0.0924
+Document: Historical Context of Russia-Ukraine Relations.txt, Similarity: 0.0710
+Document: Cultural Heritage of Ukraine.txt, Similarity: 0.0626
+
+Results for query: 'Economic changes?'
+Precision@5: 1.0000
+Document: Ukraine's Pursuit of European Integration.txt, Similarity: 0.0649
+Document: Economic Relations Between Russia and Ukraine.txt, Similarity: 0.0532
+Document: Natural Resources in Russia's Economy.txt, Similarity: 0.0363
+Document: Ukraine's EU Membership Aspirations.txt, Similarity: 0.0253
+Document: The Role of Natural Resources in Russia's Economy.txt, Similarity: 0.0177
+
+Results for query: 'Historical roots?'
+Precision@5: 1.0000
+Document: Recent Conflicts and Regional Stability.txt, Similarity: 0.1166
+Document: Russia's History and Modern Geopolitics.txt, Similarity: 0.0874
+Document: Historical Context of Russia-Ukraine Relations.txt, Similarity: 0.0609
+Document: The Cold War's Impact on Russia-Ukraine Relations.txt, Similarity: 0.0313
+Document: Russian Culture and National Identity.txt, Similarity: 0.0235
+
+Results for query: 'NATO influence?'
+Precision@5: 1.0000
+Document: NATO's Influence on Ukraine's Defense Strategy.txt, Similarity: 0.2154
+Document: Recent Conflicts and Regional Stability.txt, Similarity: 0.0630
+Document: The Role of Natural Resources in Russia's Economy.txt, Similarity: 0.0472
+Document: HelloRussia.txt, Similarity: 0.0467
+Document: Historical Context of Russia-Ukraine Relations.txt, Similarity: 0.0390
+
+Results for query: 'Agricultural impact?'
+Precision@5: 1.0000
+Document: Ukraine's Agricultural Sector.txt, Similarity: 0.2512
+Document: Recent Conflicts and Regional Stability.txt, Similarity: 0.0838
+Document: Economic Relations Between Russia and Ukraine.txt, Similarity: 0.0613
+Document: The Impact of the Conflict on Ukrainian Society.txt, Similarity: 0.0567
+Document: Cultural Heritage of Ukraine.txt, Similarity: 0.0485
+
+Results for query: 'Natural resources?'
+Precision@5: 1.0000
+Document: Natural Resources in Russia's Economy.txt, Similarity: 0.4261
+Document: The Role of Natural Resources in Russia's Economy.txt, Similarity: 0.4156
+Document: Ukraine's Agricultural Sector.txt, Similarity: 0.1064
+Document: Economic Relations Between Russia and Ukraine.txt, Similarity: 0.0396
+Document: Putin.txt, Similarity: 0.0284
+
+Results for query: 'Russian culture?'
+Precision@5: 1.0000
+Document: The Cultural Dynamics of Ukraine.txt, Similarity: 0.1946
+Document: Russian Culture and National Identity.txt, Similarity: 0.1745
+Document: Historical Context of Russia-Ukraine Relations.txt, Similarity: 0.0390
+Document: HelloRussia.txt, Similarity: 0.0339
+Document: Ukraine's Pursuit of European Integration.txt, Similarity: 0.0320
+
+Results for query: 'Geopolitical implications?'
+Precision@5: 1.0000
+Document: Recent Conflicts and Regional Stability.txt, Similarity: 0.1156
+Document: The Role of Natural Resources in Russia's Economy.txt, Similarity: 0.0752
+Document: GlobalView.txt, Similarity: 0.0618
+Document: The Cold War's Impact on Russia-Ukraine Relations.txt, Similarity: 0.0393
+Document: Russia's History and Modern Geopolitics.txt, Similarity: 0.0366
+
+Results for query: 'Humanitarian challenges?'
+Precision@5: 1.0000
+Document: The Impact of the Conflict on Ukrainian Society.txt, Similarity: 0.1149
+Document: Recent Conflicts and Regional Stability.txt, Similarity: 0.1087
+Document: evaluation_results.txt, Similarity: 0.0317
+Document: HelloRussia.txt, Similarity: 0.0306
+Document: Economic Relations Between Russia and Ukraine.txt, Similarity: 0.0044
+
+Results for query: 'Latest developments?'
+Precision@5: 1.0000
+Document: Putin.txt, Similarity: 0.0358
+Document: Ukraine's EU Membership Aspirations.txt, Similarity: 0.0299
+Document: evaluation_results.txt, Similarity: 0.0234
+Document: The Role of Natural Resources in Russia's Economy.txt, Similarity: 0.0202
+Document: The Impact of the Conflict on Ukrainian Society.txt, Similarity: 0.0105
+
+Results for query: 'Sanctions impact 2024?'
+Precision@5: 1.0000
+Document: evaluation_results.txt, Similarity: 0.0555
+Document: Recent Conflicts and Regional Stability.txt, Similarity: 0.0487
+Document: Economic Relations Between Russia and Ukraine.txt, Similarity: 0.0467
+Document: The Impact of the Conflict on Ukrainian Society.txt, Similarity: 0.0324
+Document: GlobalView.txt, Similarity: 0.0265
+
+Results for query: 'International response?'
+Precision@5: 1.0000
+Document: Ukraine's Pursuit of European Integration.txt, Similarity: 0.0644
+Document: HelloRussia.txt, Similarity: 0.0228
+Document: evaluation_results.txt, Similarity: 0.0208
+Document: The Impact of the Conflict on Ukrainian Society.txt, Similarity: 0.0154
+Document: The Role of Natural Resources in Russia's Economy.txt, Similarity: 0.0147
+
+Results for query: 'Civilians affected?'
+Precision@5: 1.0000
+Document: The Cold War's Impact on Russia-Ukraine Relations.txt, Similarity: 0.0707
+Document: Recent Conflicts and Regional Stability.txt, Similarity: 0.0650
+Document: The Impact of the Conflict on Ukrainian Society.txt, Similarity: 0.0433
+Document: HelloRussia.txt, Similarity: 0.0358
+Document: evaluation_results.txt, Similarity: 0.0248
+
+Results for query: 'NATO's role?'
+Precision@5: 1.0000
+Document: NATO's Influence on Ukraine's Defense Strategy.txt, Similarity: 0.1916
+Document: Recent Conflicts and Regional Stability.txt, Similarity: 0.0675
+Document: HelloRussia.txt, Similarity: 0.0493
+Document: The Cultural Dynamics of Ukraine.txt, Similarity: 0.0422
+Document: Natural Resources in Russia's Economy.txt, Similarity: 0.0349
+
+Results for query: 'Global security implications?'
+Precision@5: 1.0000
+Document: GlobalView.txt, Similarity: 0.1112
+Document: The Role of Natural Resources in Russia's Economy.txt, Similarity: 0.0862
+Document: Recent Conflicts and Regional Stability.txt, Similarity: 0.0728
+Document: Ukraine's Agricultural Sector.txt, Similarity: 0.0717
+Document: NATO's Influence on Ukraine's Defense Strategy.txt, Similarity: 0.0480
+
+Results for query: 'Energy price influence?'
+Precision@5: 1.0000
+Document: The Role of Natural Resources in Russia's Economy.txt, Similarity: 0.2549
+Document: Economic Relations Between Russia and Ukraine.txt, Similarity: 0.1200
+Document: Natural Resources in Russia's Economy.txt, Similarity: 0.1090
+Document: GlobalView.txt, Similarity: 0.0438
+Document: NATO's Influence on Ukraine's Defense Strategy.txt, Similarity: 0.0303
+
+Results for query: 'Humanitarian efforts?'
+Precision@5: 1.0000
+Document: Recent Conflicts and Regional Stability.txt, Similarity: 0.1414
+Document: The Impact of the Conflict on Ukrainian Society.txt, Similarity: 0.1071
+Document: Cultural Heritage of Ukraine.txt, Similarity: 0.0394
+Document: HelloRussia.txt, Similarity: 0.0387
+Document: evaluation_results.txt, Similarity: 0.0306
+
+Results for query: 'Military strategies?'
+Precision@5: 1.0000
+Document: NATO's Influence on Ukraine's Defense Strategy.txt, Similarity: 0.1279
+Document: HelloRussia.txt, Similarity: 0.1090
+Document: Recent Conflicts and Regional Stability.txt, Similarity: 0.0706
+Document: Putin.txt, Similarity: 0.0597
+Document: The Cold War's Impact on Russia-Ukraine Relations.txt, Similarity: 0.0351
+
+Results for query: 'Cultural impacts?'
+Precision@5: 1.0000
+Document: The Cultural Dynamics of Ukraine.txt, Similarity: 0.1195
+Document: The Impact of the Conflict on Ukrainian Society.txt, Similarity: 0.1040
+Document: Recent Conflicts and Regional Stability.txt, Similarity: 0.0941
+Document: Historical Context of Russia-Ukraine Relations.txt, Similarity: 0.0714
+Document: Cultural Heritage of Ukraine.txt, Similarity: 0.0633
+
+Results for query: 'Economic changes?'
+Precision@5: 1.0000
+Document: Ukraine's Pursuit of European Integration.txt, Similarity: 0.0661
+Document: Economic Relations Between Russia and Ukraine.txt, Similarity: 0.0532
+Document: Natural Resources in Russia's Economy.txt, Similarity: 0.0363
+Document: Ukraine's EU Membership Aspirations.txt, Similarity: 0.0262
+Document: evaluation_results.txt, Similarity: 0.0177
+
+Results for query: 'Historical roots?'
+Precision@5: 1.0000
+Document: Recent Conflicts and Regional Stability.txt, Similarity: 0.1186
+Document: Russia's History and Modern Geopolitics.txt, Similarity: 0.0880
+Document: Historical Context of Russia-Ukraine Relations.txt, Similarity: 0.0612
+Document: The Cold War's Impact on Russia-Ukraine Relations.txt, Similarity: 0.0317
+Document: Russian Culture and National Identity.txt, Similarity: 0.0238
+
+Results for query: 'NATO influence?'
+Precision@5: 1.0000
+Document: NATO's Influence on Ukraine's Defense Strategy.txt, Similarity: 0.2285
+Document: Recent Conflicts and Regional Stability.txt, Similarity: 0.0641
+Document: The Role of Natural Resources in Russia's Economy.txt, Similarity: 0.0473
+Document: HelloRussia.txt, Similarity: 0.0468
+Document: Historical Context of Russia-Ukraine Relations.txt, Similarity: 0.0392
+
+Results for query: 'Agricultural impact?'
+Precision@5: 1.0000
+Document: Ukraine's Agricultural Sector.txt, Similarity: 0.2514
+Document: Recent Conflicts and Regional Stability.txt, Similarity: 0.0853
+Document: Economic Relations Between Russia and Ukraine.txt, Similarity: 0.0613
+Document: evaluation_results.txt, Similarity: 0.0585
+Document: The Impact of the Conflict on Ukrainian Society.txt, Similarity: 0.0569
+
+Results for query: 'Natural resources?'
+Precision@5: 1.0000
+Document: Natural Resources in Russia's Economy.txt, Similarity: 0.4261
+Document: The Role of Natural Resources in Russia's Economy.txt, Similarity: 0.4157
+Document: Ukraine's Agricultural Sector.txt, Similarity: 0.1065
+Document: evaluation_results.txt, Similarity: 0.0447
+Document: Economic Relations Between Russia and Ukraine.txt, Similarity: 0.0396
+
+Results for query: 'Russian culture?'
+Precision@5: 1.0000
+Document: The Cultural Dynamics of Ukraine.txt, Similarity: 0.1977
+Document: Russian Culture and National Identity.txt, Similarity: 0.1761
+Document: Historical Context of Russia-Ukraine Relations.txt, Similarity: 0.0392
+Document: HelloRussia.txt, Similarity: 0.0340
+Document: Ukraine's Pursuit of European Integration.txt, Similarity: 0.0326
+
+Results for query: 'Geopolitical implications?'
+Precision@5: 1.0000
+Document: Recent Conflicts and Regional Stability.txt, Similarity: 0.1177
+Document: The Role of Natural Resources in Russia's Economy.txt, Similarity: 0.0752
+Document: GlobalView.txt, Similarity: 0.0618
+Document: The Cold War's Impact on Russia-Ukraine Relations.txt, Similarity: 0.0398
+Document: Russia's History and Modern Geopolitics.txt, Similarity: 0.0369
+
+Results for query: 'Humanitarian challenges?'
+Precision@5: 1.0000
+Document: The Impact of the Conflict on Ukrainian Society.txt, Similarity: 0.1151
+Document: Recent Conflicts and Regional Stability.txt, Similarity: 0.1106
+Document: HelloRussia.txt, Similarity: 0.0307
+Document: evaluation_results.txt, Similarity: 0.0298
+Document: Economic Relations Between Russia and Ukraine.txt, Similarity: 0.0044
+
